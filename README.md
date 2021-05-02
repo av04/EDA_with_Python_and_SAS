@@ -85,7 +85,7 @@ This can be achieved by-
    - df[_"feature"_].kurtosis()
    
 - b.	**SAS**			
-   - proc means data = df skew kurtosis;
+   - proc means data = df skew kurt;
    - var _numeric_;
    - run;
    

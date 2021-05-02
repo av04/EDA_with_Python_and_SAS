@@ -89,7 +89,7 @@ This can be achieved by-
    - var _numeric_;
    - run;
    
-### Above stated steps are few most important steps in EDA analysis. One can even go beyong these steps to know even more about the data they are dealing with. These can like:
+### Above stated steps are few most important steps in EDA analysis. One can even go beyong these steps to know even more about the data they are dealing with. These are like:
 - 1. Box plots
 - 2. Outlier Treatments
 - 3. Histogram plots
